@@ -1,0 +1,127 @@
+*{
+    font-family: Lato;
+}
+
+.header{
+    display: flex;
+    width: 1920px;
+    height: 700px;
+    padding: 120px;
+    background-color:rgba(236, 39, 82, 0.1);
+    margin-bottom: 0px;
+}
+
+.i-title{
+    width: 635px;
+    height: 800px;
+    margin-bottom: 0px;
+}
+
+.d-title{
+    width: 708px;
+    height: 288px;
+    margin-top: 300px;
+    padding: 10px;
+}
+
+.btn-primary{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    border: 0px;
+    background-color:  #E55473;
+    padding:25px;
+    margin-right: 150px;
+}
+
+.text-sction{
+    text-align: center;
+    margin-top: 110px;
+}
+
+
+.img-section{
+    text-align:center;
+    margin-top: 150px;
+
+}
+
+
+.img-section-1{
+    background-color: rgb(229, 18, 18) ;
+    border-radius: 100px 100px 0px 0px;
+    height: 400px;
+    margin-left: 24px;
+}
+
+
+.img-section-2{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 102px 120px 0px 0px;
+    text-align: center;
+    margin-left: 24px;
+}
+
+.img-section-3{
+   background-color: rgb(198, 78, 78);
+   border-radius: 85px 85px 0px 0px;
+   height: 400px;
+   margin-left: 24px;
+}
+
+/* .contcer-section-1{
+    display: flex;
+    width: 12000px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 200px;
+    background-color: #E55473;
+} */
+.contcer-section-2{
+  background-color: burlywood;
+  display: flex;
+  width: 1920px;
+  height: 500px;
+  margin-top: 200px;
+  gap: 25px;
+  
+}
+.my{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 25px;
+    margin-left: 255px;
+}
+
+
+.Instagram{
+    text-align: center;
+    margin-top: 80px;
+    
+}
+
+.lset{
+    text-align: center;
+    background-image: url(../bacground-img/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    width: 1240px;
+    height: 400px;
+    margin-left: 80px;
+}
+
+.na{
+    padding: 122px 534px 279px 533px;
+}
+.no{
+    padding: 186px 605px 233px 604px;
+}
+
+ .btn-primary-1{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: #E55473;
+}
