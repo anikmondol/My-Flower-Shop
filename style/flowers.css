@@ -106,7 +106,7 @@
     background-image: url(../bacground-img/Rectangle\ 9.png);
     background-repeat: no-repeat;
     margin-top: 100px;
-    width: 1240px;
+    width: 1300px;
     height: 400px;
     margin-left: 80px;
 }
@@ -124,4 +124,26 @@
     margin-top: 10px;
     border-radius: 8px;
     background-color: #E55473;
+}
+
+.footer{
+    text-align: center;
+    width: 1500px;
+    height: 200px;
+    margin-top: 150px;
+    padding-top: 180px;
+    background-color:  #111010;
+}
+
+#id-class{
+    color: rgba(255, 255, 255, 0.90);
+}
+.Shop{
+    color: white;
+}
+.Flower{
+    color: #E55473;
+}
+#dp{
+    font-size: 48px;
 }
