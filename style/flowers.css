@@ -145,5 +145,9 @@
     color: #E55473;
 }
 #dp{
-    font-size: 48px;
+    font-size: 47px;
+}
+.copy-class{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center
 }
